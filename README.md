@@ -1,5 +1,5 @@
 # userExplorer_Project
-Exercice réalisé dans le cadre de ma formation de développeur Front-end chez Simplon.
+Exercice réalisé dans le cadre de ma formation de développeur Front-end chez Simplon. Le principal objectif de cet exercice était de nous faire réaliser l'intégralité de la page en JS et en CSS.
 
 "Vous travaillez pour une entreprise de gestion des utilisateurs nommée "UserTech Solutions". Votre entreprise fournit des solutions logicielles aux entreprises pour gérer efficacement leurs
 utilisateurs. Vous avez récemment obtenu un contrat avec une nouvelle entreprise cliente, "TechCorp Inc.", qui recherche une interface simple et conviviale pour afficher et gérer les profils
